@@ -1,0 +1,11 @@
+{
+  "customizations": {
+    "codespaces": {
+      "openFiles": [
+        "challenge.js",
+        "readme.md"
+      ]
+    }
+  },
+  "postCreateCommand": "npm run dev"
+}
