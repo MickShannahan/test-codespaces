@@ -17,9 +17,9 @@
 		"codespaces": {
 			"openFiles": [
 				"challenge.js",
-				"readme.md"
+				"README.md"
 			]
 		}
 	},
-	"postCreateCommand": "npm run dev"
+	"postStartCommand": "npm run dev"
 }
